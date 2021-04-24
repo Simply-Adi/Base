@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Simply-Adi
-- 👀 I’m interested in load forecasting and forecasting problems in general
-- 🌱 I’m currently learning how to quantify uncertainty in forecasting.
-- 💞️ I’m looking to collaborate on devloping probabilistic forecasting models.
+- 👋 Hi, I’m Thangjam Aditya;
+- 👀 I’m interested in load forecasting and forecasting problems in general;
+- 🌱 I’m currently learning how to quantify uncertainty in forecasting;
+- 💞️ I’m looking to collaborate on devloping probabilistic forecasting models;
 - 📫 How to reach me : at my aditya.phd19@gmail.com
 
 <!---
